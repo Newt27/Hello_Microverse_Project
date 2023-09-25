@@ -58,7 +58,7 @@ For more information on the importance of a professional README for your reposit
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Swan Yee Linn**
 
 - GitHub: [https://github.com/Newt27](https://github.com/githubhandle)
 - LinkedIn: [https://www.linkedin.com/in/newt235292/](https://linkedin.com/in/linkedinhandle)
@@ -81,7 +81,7 @@ For more information on the importance of a professional README for your reposit
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I'd like to give thanks to Ko Htet Naing, the moderators, and the code reviewers for giving time to review our codes and give suggestions to improve our skills.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
