@@ -1,0 +1,7 @@
+h1 {
+  color: white;
+  background: blueviolet;
+  border-radius: 20px 100px;
+  padding: 20px;
+  display: inline-block;
+}
